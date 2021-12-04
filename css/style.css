@@ -1,14 +1,14 @@
 header {
-  background-color: #fff;
+  background-color: #f10d0d;
 }
 
 h1 {
-  color: orange;
+  color: #234b23;
 }
 
 body {
-  font-size: 50px;
-  font-style: italic;
+  font-size: 70px;
+  font-style: normal;
 }
 
 body div {
